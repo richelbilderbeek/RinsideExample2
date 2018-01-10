@@ -1,6 +1,6 @@
 # RinsideExample2
 
-Rinside example 2.
+[Rinside](https://github.com/richelbilderbeek/cpp/blob/master/content/CppRinside.md) example 2.
 
 ## CppRinsideExample2.pro
 
